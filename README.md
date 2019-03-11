@@ -28,6 +28,7 @@ jupyter-notebook
 ## Authors
 
 * **Mert Çobanoğlu** - [Cobanov](https://github.com/cobanov)
+* **Hakan Cebeci** - Çalışma Hakan Cebeci'nin Udemy üzerindeki Doğal Dil İşleme eğitimden edinilen bilgiler ile yapılmıtşır.
 
 ## License
 
